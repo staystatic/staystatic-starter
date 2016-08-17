@@ -100,7 +100,7 @@ and use the folder and filenames for your (web)site builder tool.
 
 in plain vanilla simple styles in a single file
 
-- /style.css
+- /css/style.css
 
 
 ### Three building blocks (includes/partials)
