@@ -119,7 +119,14 @@ or something. And a "Fork me a GitHub" ribbon.
 ### One datafile (for links/bookmarks) in many flavors
 
 a datafile listing links/booksmarks (title and url) in many
-flavors e.g. yaml, toml, json, js. Use your flavor of choice
+flavors e.g. yaml, toml, json, js.
+
+- /data/links.js
+- /data/links.json
+- /data/links.toml
+- /data/links.yml
+
+Note: Use your flavor of choice
 or if missing add/use your own.
 
 
@@ -128,5 +135,5 @@ That's it. Good luck.
 
 ## Questions? Comments?
 
-Ping us [@viennahtml]() on twitter or send questions or comments
+Ping us [@viennahtml](https://twitter.com/viennahtml) on twitter or send questions or comments
 to the [wwwmake mailing list/forum](https://groups.google.com/group/wwwmake).  
