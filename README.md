@@ -135,5 +135,5 @@ That's it. Good luck.
 
 ## Questions? Comments?
 
-Ping us [@viennahtml](https://twitter.com/viennahtml) on twitter or send questions or comments
+Ping us [@austriacodes](https://twitter.com/austriacodes) on twitter or send questions or comments
 to the [wwwmake mailing list/forum](https://groups.google.com/group/wwwmake).  
